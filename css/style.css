@@ -164,7 +164,7 @@ body{
 
 .end-header{
   background-image: url(../images/pexels-pixabay-355747.jpg);
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-size:cover ;
   min-height: calc(100vh - 46px);
   position: relative;
